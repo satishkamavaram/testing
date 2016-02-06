@@ -2,7 +2,7 @@ package com.satish.testing;
 
 /**
  * Hello world!
- * hello....
+ *
  */
 public class App 
 {
